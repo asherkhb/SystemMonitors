@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # System Monitor & Recorder
 # Usage: system_monitory.py <output_file>
 

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # Plot System Usage
 # Given a system_monitor.py output log, create a plotly graph of system usage.
 # Usage: plot_sys_use.py <log.txt>
